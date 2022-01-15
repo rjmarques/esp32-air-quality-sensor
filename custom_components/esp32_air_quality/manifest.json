@@ -1,0 +1,9 @@
+{
+  "domain": "esp32_air_quality",
+  "name": "ESP32 Air Quality",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/esp32-air-quality",
+  "codeowners": ["@rjmarques"],
+  "iot_class": "local_push"
+}
